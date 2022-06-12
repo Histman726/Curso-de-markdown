@@ -10,17 +10,20 @@
     }
 </style>
 
-
-# Aprendiendo _Markdown_ 
+# Aprendiendo _Markdown_
 
 Esto es un parrafo
 
 Aplicando _cursiva_ y **negritas**, **_cursiva y negrita_**.
 
 ## Hola 1
+
 ### Hola 2
+
 #### Hola 3
+
 ##### Hola 4
+
 ###### Hola 5
 
 [Youtube](https://www.youtube.com/watch?v=FlsoBiteuPM)
@@ -36,35 +39,35 @@ Aplicando _cursiva_ y **negritas**, **_cursiva y negrita_**.
 1. Preparatoria
 1. Universidad
 
-* Primavera
-    * Abril
-    * Mayo
-    * Julio
-* Otoño
-    * Julio
-    * Agosto
-    * Septiembre
-* Verano
-* Invierno
+- Primavera
+  - Abril
+  - Mayo
+  - Julio
+- Otoño
+  - Julio
+  - Agosto
+  - Septiembre
+- Verano
+- Invierno
 
 > Siempre tienes opcion de no tener opinion. - _Marco Aurelio_
 
 > Todo lo que escuchamos es una opinion, no un hecho.
-> Todo lo que vemos es una perspectiva, no la verdad. 
+> Todo lo que vemos es una perspectiva, no la verdad.
 >
 > Marco Aurelio
 
 | Nombre | Apellido | Edad |
-|---|---|---|
-|Hector| Sandoval| 17|
-|Lucero| Martinez| 19|
-|Victor| Zacarias| 20|
+| ------ | -------- | ---- |
+| Hector | Sandoval | 17   |
+| Lucero | Martinez | 19   |
+| Victor | Zacarias | 20   |
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. `let` Etiam bibendum tempor nunc. Quisque scelerisque sollicitudin nisl, a dapibus mauris imperdiet pulvinar. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. `let` Etiam bibendum tempor nunc. Quisque scelerisque sollicitudin nisl, a dapibus mauris imperdiet pulvinar.
 
 ```js
-function sumar(a,b){
-    return a+b
+function sumar(a, b, c) {
+  return a + b + c;
 }
 ```
 
